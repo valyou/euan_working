@@ -21,3 +21,4 @@ CREATE TABLE public.category_values
 
 
 INSERT INTO CATEGORY VALUES('MINING', 'MINING', 'The amount of mining activity occurring in the area');
+INSERT INTO CATEGORY VALUES('ENERGY', 'ENERGY', 'The amount of energy activity occurring in the area');
